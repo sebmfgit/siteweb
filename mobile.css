@@ -1,0 +1,3 @@
+@media screen and (max-width:600px){
+    header, footer{background: red}
+}
