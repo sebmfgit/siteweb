@@ -11,7 +11,8 @@ h1{
   width: 100%;
 }
 article{
-  background: lightblue;
+  background: lightpink;
   width: 26%;
+  padding: 2%;
   margin: 4em 0;
 }
